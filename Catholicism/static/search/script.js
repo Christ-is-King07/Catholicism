@@ -19,17 +19,17 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to handle navigation based on search input
     function navigateToPage(query) {
         const pages = {
-            "saints": "../../../Catholicism/Saints/index.html",
-                "st charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
-                    "saint charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
-                    "charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
+            "saints": "../../Saints/index.html",
+                "st charbel":"../../Saints/Saint Charbel/index.html",
+                    "saint charbel":"../../Saints/Saint Charbel/index.html",
+                    "charbel":"../../Saints/Saint Charbel/index.html",
 
-                "padre pio":"../../../Catholicism/Saints/Padre Pio/index.html",
-                    "saint padre pio":"../../../Catholicism/Saints/Padre Pio/index.html",
-                    "pio":"../../../Catholicism/Saints/Padre Pio/index.html",
-                    "padre":"../../../Catholicism/Saints/Padre Pio/index.html",
+                "padre pio":"../../Saints/Padre Pio/index.html",
+                    "saint padre pio":"../../Saints/Padre Pio/index.html",
+                    "pio":"../../Saints/Padre Pio/index.html",
+                    "padre":"../../Saints/Padre Pio/index.html",
 
-                "st anthony of padua":"../../../Catholicism/Saints/St Anthony of Pauda/index.html",
+                "st anthony of padua":"../../../Saints/St Anthony of Pauda/index.html",
                     "st anthony":"../../../Saints/St Anthony of Pauda/index.html",
                     "saint anthony":"../../../Saints/St Anthony of Pauda/index.html",
                     "anthony":"../../../Saints/St Anthony of Pauda/index.html",

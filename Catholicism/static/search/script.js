@@ -29,10 +29,10 @@ document.addEventListener('DOMContentLoaded', function () {
                     "pio":"../../Saints/Padre Pio/index.html",
                     "padre":"../../Saints/Padre Pio/index.html",
 
-                "st anthony of padua":"../../../Saints/St Anthony of Pauda/index.html",
-                    "st anthony":"../../../Saints/St Anthony of Pauda/index.html",
-                    "saint anthony":"../../../Saints/St Anthony of Pauda/index.html",
-                    "anthony":"../../../Saints/St Anthony of Pauda/index.html",
+                "st anthony of padua":"../../../Saints/St Anthony of Padua/index.html",
+                    "st anthony":"../../../Saints/St Anthony of Padua/index.html",
+                    "saint anthony":"../../../Saints/St Anthony of Padua/index.html",
+                    "anthony":"../../../Saints/St Anthony of Padua/index.html",
 
             "prayers": "../../../Prayers/index.html",
                 "rosary": "../../../Prayers/Rosary/index.html",

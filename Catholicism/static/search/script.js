@@ -19,15 +19,15 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to handle navigation based on search input
     function navigateToPage(query) {
         const pages = {
-            "saints": "../../Saints/index.html",
-                "st charbel":"../../Saints/Saint Charbel/index.html",
-                    "saint charbel":"../../Saints/Saint Charbel/index.html",
-                    "charbel":"../../Saints/Saint Charbel/index.html",
+            "saints": "../../../Saints/index.html",
+                "st charbel":"../../../Saints/Saint Charbel/index.html",
+                    "saint charbel":"../../../Saints/Saint Charbel/index.html",
+                    "charbel":"../../../Saints/Saint Charbel/index.html",
 
-                "padre pio":"../../Saints/Padre Pio/index.html",
-                    "saint padre pio":"../../Saints/Padre Pio/index.html",
-                    "pio":"../../Saints/Padre Pio/index.html",
-                    "padre":"../../Saints/Padre Pio/index.html",
+                "padre pio":"../../../Saints/Padre Pio/index.html",
+                    "saint padre pio":"../../../Saints/Padre Pio/index.html",
+                    "pio":"../../../Saints/Padre Pio/index.html",
+                    "padre":"../../../Saints/Padre Pio/index.html",
 
                 "st anthony of padua":"../../../Saints/St Anthony of Padua/index.html",
                     "st anthony":"../../../Saints/St Anthony of Padua/index.html",
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 "line of popes": "../../../Papacy/Line of Popes/index.html",
                 "popes": "../../../Papacy/Line of Popes/index.html",
 
-            "the assumption": "../../../Catholicism/Assumption/index.html",
+            "the assumption": "../../Catholicism/Assumption/index.html",
             "confession": "../../../Catholicism/Confession/index.html",
             "eucharist": "../../../Catholicism/Eucharist/index.html"
         };

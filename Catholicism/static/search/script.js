@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     "saint charbel":"../../../Saints/Saint Charbel/index.html",
                     "charbel":"../../../Saints/Saint Charbel/index.html",
 
-                "padre pio":"../../../Saints/Padre Pio/index.html",
+                "padre pio":"../../../../Catholicism/Saints/Padre Pio/index.html",
                     "saint padre pio":"../../../Saints/Padre Pio/index.html",
                     "pio":"../../../Saints/Padre Pio/index.html",
                     "padre":"../../../Saints/Padre Pio/index.html",

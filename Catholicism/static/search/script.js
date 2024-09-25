@@ -19,9 +19,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to handle navigation based on search input
     function navigateToPage(query) {
         const pages = {
-            "saints": "../../../../Catholicism/Saints/index.html",
-                "st charbel":"../../../../Saints/Saint Charbel/index.html",
-                    "saint charbel":"../../../../Saints/Saint Charbel/index.html",
+            "saints": "../../../Saints/index.html",
+                "st charbel":"../../../Saints/Saint Charbel/index.html",
+                    "saint charbel":"../../../Saints/Saint Charbel/index.html",
                     "charbel":"../../../Saints/Saint Charbel/index.html",
 
                 "padre pio":"../../../Saints/Padre Pio/index.html",
@@ -43,9 +43,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 "line of popes": "../../../Papacy/Line of Popes/index.html",
                 "popes": "../../../Papacy/Line of Popes/index.html",
 
-            "the assumption": "../../../Assumption/index.html",
-            "confession": "../../../Confession/index.html",
-            "eucharist": "../../../Eucharist/index.html"
+            "the assumption": "../../../Catholicism/Assumption/index.html",
+            "confession": "../../../Catholicism/Confession/index.html",
+            "eucharist": "../../../Catholicism/Eucharist/index.html"
         };
 
         // Navigate to the page if the query matches

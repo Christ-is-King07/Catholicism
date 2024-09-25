@@ -20,16 +20,16 @@ document.addEventListener('DOMContentLoaded', function () {
     function navigateToPage(query) {
         const pages = {
             "saints": "../../../Saints/index.html",
-                "st charbel":"../../../Saints/Saint Charbel/index.html",
+                "st charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
                     "saint charbel":"../../../Saints/Saint Charbel/index.html",
                     "charbel":"../../../Saints/Saint Charbel/index.html",
 
-                "padre pio":"../../../../Catholicism/Saints/Padre Pio/index.html",
+                "padre pio":"../../../Saints/Padre Pio/index.html",
                     "saint padre pio":"../../../Saints/Padre Pio/index.html",
                     "pio":"../../../Saints/Padre Pio/index.html",
                     "padre":"../../../Saints/Padre Pio/index.html",
 
-                "st anthony of padua":"../../../Saints/St Anthony of Pauda/index.html",
+                "st anthony of padua":"../../../Catholicism/Saints/St Anthony of Pauda/index.html",
                     "st anthony":"../../../Saints/St Anthony of Pauda/index.html",
                     "saint anthony":"../../../Saints/St Anthony of Pauda/index.html",
                     "anthony":"../../../Saints/St Anthony of Pauda/index.html",

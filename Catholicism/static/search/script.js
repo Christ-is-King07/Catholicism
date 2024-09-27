@@ -19,20 +19,20 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to handle navigation based on search input
     function navigateToPage(query) {
         const pages = {
-            "saints": "../../../Saints/index.html",
-                "st charbel":"../../../Saints/Saint Charbel/index.html",
-                    "saint charbel":"../../../Saints/Saint Charbel/index.html",
-                    "charbel":"../../../Saints/Saint Charbel/index.html",
+            "saints": "../../../Catholicism/Saints/index.html",
+                "st charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
+                    "saint charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
+                    "charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
 
                 "padre pio":"../../../Saints/Padre Pio/index.html",
                     "saint padre pio":"../../../Saints/Padre Pio/index.html",
                     "pio":"../../../Saints/Padre Pio/index.html",
                     "padre":"../../../Saints/Padre Pio/index.html",
 
-                "st anthony of padua":"../../../Saints/St Anthony of Pauda/index.html",
-                    "st anthony":"../../../Saints/St Anthony of Pauda/index.html",
-                    "saint anthony":"../../../Saints/St Anthony of Pauda/index.html",
-                    "anthony":"../../../Saints/St Anthony of Pauda/index.html",
+                "st anthony of padua":"../../../Saints/St Anthony of Padua/index.html",
+                    "st anthony":"../../../Saints/St Anthony of Padua/index.html",
+                    "saint anthony":"../../../Saints/St Anthony of Padua/index.html",
+                    "anthony":"../../../Saints/St Anthony of Padua/index.html",
 
             "prayers": "../../../Prayers/index.html",
                 "rosary": "../../../Prayers/Rosary/index.html",
@@ -44,9 +44,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 "popes": "../../../Papacy/Line of Popes/index.html",
 
             "the assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
-                "assumption": "../../../Catholicism/Assumption/index.html",
-            "confession": "../../../Catholicism/Confession/index.html",
-            "eucharist": "../../../Catholicism/Eucharist/index.html"
+                "assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
+            "confession": "../../../Catholicism/Catholicism/Confession/index.html",
+            "eucharist": "../../../Catholicism/Catholicism/Eucharist/index.html"
         };
 
         // Navigate to the page if the query matches

@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 "line of popes": "../../../Papacy/Line of Popes/index.html",
                 "popes": "../../../Papacy/Line of Popes/index.html",
 
-            "the assumption": "../../../Catholicism/Assumption/index.html",
+            "the assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
                 "assumption": "../../../Catholicism/Assumption/index.html",
             "confession": "../../../Catholicism/Confession/index.html",
             "eucharist": "../../../Catholicism/Eucharist/index.html"

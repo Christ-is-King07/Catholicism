@@ -20,26 +20,26 @@ document.addEventListener('DOMContentLoaded', function () {
     function navigateToPage(query) {
         const pages = {
             "saints": "../../../Catholicism/Saints/index.html",
-                "st charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
-                    "saint charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
-                    "charbel":"../../../Catholicism/Saints/Saint Charbel/index.html",
+                "st charbel": "../../../Catholicism/Saints/Saint Charbel/index.html",
+                    "saint charbel": "../../../Catholicism/Saints/Saint Charbel/index.html",
+                    "charbel": "../../../Catholicism/Saints/Saint Charbel/index.html",
 
-                "padre pio":"../../../Catholicism/Saints/Padre Pio/index.html",
-                    "saint padre pio":"../../../Catholicism/Saints/Padre Pio/index.html",
-                    "pio":"../../../Catholicism/Saints/Padre Pio/index.html",
-                    "padre":"../../../Catholicism/Saints/Padre Pio/index.html",
+                "padre pio": "../../../Catholicism/Saints/Padre Pio/index.html",
+                    "saint padre pio": "../../../Catholicism/Saints/Padre Pio/index.html",
+                    "pio": "../../../Catholicism/Saints/Padre Pio/index.html",
+                    "padre": "../../../Catholicism/Saints/Padre Pio/index.html",
 
-                "st anthony of padua":"../../../Catholicism/Saints/St Anthony of Padua/index.html",
-                    "st anthony":"../../../Catholicism/Saints/St Anthony of Padua/index.html",
-                    "saint anthony":"../../../Catholicism/Saints/St Anthony of Padua/index.html",
-                    "anthony":"../../../Catholicism/Saints/St Anthony of Padua/index.html",
+                "st anthony of padua": "../../../Catholicism/Saints/St Anthony of Padua/index.html",
+                    "st anthony": "../../../Catholicism/Saints/St Anthony of Padua/index.html",
+                    "saint anthony": "../../../Catholicism/Saints/St Anthony of Padua/index.html",
+                    "anthony": "../../../Catholicism/Saints/St Anthony of Padua/index.html",
 
             "prayers": "../../../Catholicism/Prayers/index.html",
                 "rosary": "../../../Catholicism/Prayers/Rosary/index.html",
                 "nicene creed": "../../../Catholicism/Prayers/Nicene Creed/index.html",
 
-            "papacy": "../../../Catholicism/Papacy/index.html",
-                "history of catholic hierarchy": "../../../Catholicism/Papacy/History of Catholic Hierarchy/index.html",
+            "papacy": "Papacy/index.html",
+                "history of catholic hierarchy": "Papacy/History of Catholic Hierarchy/index.html",
                 "line of popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
                 "popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
 

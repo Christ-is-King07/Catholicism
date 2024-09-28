@@ -38,10 +38,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 "rosary": "../../../Catholicism/Prayers/Rosary/index.html",
                 "nicene creed": "../../../Catholicism/Prayers/Nicene Creed/index.html",
 
-            "papacy": "Papacy/index.html",
-                "history of catholic hierarchy": "Papacy/History of Catholic Hierarchy/index.html",
-                "line of popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
-                "popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
+            //"papacy": "Papacy/index.html",
+                //"history of catholic hierarchy": "Papacy/History of Catholic Hierarchy/index.html",
+                //"line of popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
+                //"popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
 
             "the assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
                 "assumption": "../../../Catholicism/Catholicism/Assumption/index.html",

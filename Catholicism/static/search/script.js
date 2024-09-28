@@ -46,7 +46,8 @@ document.addEventListener('DOMContentLoaded', function () {
             "the assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
                 "assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
             "confession": "../../../Catholicism/Catholicism/Confession/index.html",
-            "eucharist": "../../../Catholicism/Catholicism/Eucharist/index.html"
+            "eucharist": "../../../Catholicism/Catholicism/Eucharist/index.html",
+            "glossary": "../../../Catholicism/Catholicism/Glossary/index.html"
         };
 
         // Navigate to the page if the query matches

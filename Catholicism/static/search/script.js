@@ -59,3 +59,16 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 });
+
+// Select all toggle buttons and content sections
+const toggleButtons = document.querySelectorAll('.toggleButton');
+const contents = document.querySelectorAll('.content');
+
+// Loop through each button and add a click event listener
+toggleButtons.forEach((button, index) => {
+    button.addEventListener('click', function() {
+        // Toggle the corresponding content div based on the index
+        const content = contents[index];
+        content.classList.toggle('hidden'); // Toggle visibility
+    });
+});

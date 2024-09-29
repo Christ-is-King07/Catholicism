@@ -95,3 +95,7 @@ button {
     border-radius: 5px;
     margin: 15px;
 }
+
+button:hover{
+    border-style: inset;
+}

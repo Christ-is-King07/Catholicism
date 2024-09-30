@@ -41,8 +41,9 @@ p {
 }
 
 img {
-    float: right;    
+    float: left;    
     padding-right: 40px;
+    padding-left: 40px;
     padding-top: 40px;
     width: 70px;
 }
@@ -60,6 +61,7 @@ ul {
     border-radius: 28px;
     background: #f6f6f6;
     transition: box-shadow 0.25s;
+    float: right;
 }
 
 .search:focus-within {

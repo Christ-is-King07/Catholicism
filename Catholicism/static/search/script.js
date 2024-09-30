@@ -20,9 +20,9 @@ document.addEventListener('DOMContentLoaded', function () {
     function navigateToPage(query) {
         const pages = {
             "saints": "../../../Catholicism/Saints/saints.html",
-                "st charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saints.html",
-                    "saint charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saints.html",
-                    "charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saints.html",
+                "st charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saint_charbel.html",
+                    "saint charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saint_charbel.html",
+                    "charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saint_charbel.html",
 
                 "padre pio": "../../../Catholicism/Saints/Padre Pio/padre_pio.html",
                     "saint padre pio": "../../../Catholicism/Saints/Padre Pio/padre_pio.html",

@@ -43,11 +43,11 @@ document.addEventListener('DOMContentLoaded', function () {
                 //"line of popes": "../../../Catholicism/Papacy/Line of Popes/line_of_popes.html",
                 //"popes": "../../../Catholicism/Papacy/Line of Popes/line_of_popes.html",
 
-            "the assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
-                "assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
-            "confession": "../../../Catholicism/Catholicism/Confession/index.html",
-            "eucharist": "../../../Catholicism/Catholicism/Eucharist/index.html",
-            "glossary": "../../../Catholicism/Catholicism/Glossary/index.html"
+            "the assumption": "../../../Catholicism/Catholicism/Assumption/assumption.html",
+                "assumption": "../../../Catholicism/Catholicism/Assumption/assumption.html",
+            "confession": "../../../Catholicism/Catholicism/Confession/confession.html",
+            "eucharist": "../../../Catholicism/Catholicism/Eucharist/eucharist.html",
+            "glossary": "../../../Catholicism/Catholicism/Glossary/glossary.html"
         };
 
         // Navigate to the page if the query matches

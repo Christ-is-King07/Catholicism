@@ -34,12 +34,12 @@ document.addEventListener('DOMContentLoaded', function () {
                     //"saint anthony": "../../../Catholicism/Saints/St Anthony of Padua/saint_anthony_of_padua.html",
                     //"anthony": "../../../Catholicism/Saints/St Anthony of Padua/saint_anthony_of_padua.html",
 
-            "prayers": "../../../Catholicism/Prayers/index.html",
-                "rosary": "../../../Catholicism/Prayers/Rosary/index.html",
-                "nicene creed": "../../../Catholicism/Prayers/Nicene Creed/index.html",
+            "prayers": "../../../Catholicism/Prayers/prayers.html",
+                "rosary": "../../../Catholicism/Prayers/Rosary/rosary.html",
+                "nicene creed": "../../../Catholicism/Prayers/Nicene Creed/nicene_creed.html",
 
-            //"papacy": "Papacy/index.html",
-                //"history of catholic hierarchy": "Papacy/History of Catholic Hierarchy/index.html",
+            //"papacy": "../../../Catholicism/Papacy/papacy.html",
+                //"history of catholic hierarchy": "../../../Catholicism/Papacy/History of Catholic Hierarchy/index.html",
                 //"line of popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
                 //"popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
 

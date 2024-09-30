@@ -29,19 +29,19 @@ document.addEventListener('DOMContentLoaded', function () {
                     "pio": "../../../Catholicism/Saints/Padre Pio/padre_pio.html",
                     "padre": "../../../Catholicism/Saints/Padre Pio/padre_pio.html",
 
-                //"st anthony of padua": "../../../Catholicism/Saints/St Anthony of Padua/saint_anthony_of_padua.html",
-                    //"st anthony": "../../../Catholicism/Saints/St Anthony of Padua/saint_anthony_of_padua.html",
-                    //"saint anthony": "../../../Catholicism/Saints/St Anthony of Padua/saint_anthony_of_padua.html",
-                    //"anthony": "../../../Catholicism/Saints/St Anthony of Padua/saint_anthony_of_padua.html",
+                //"st anthony of padua": "../../../Catholicism/Saints/St Anthony of Padua/st_anthony_of_padua.html",
+                    //"st anthony": "../../../Catholicism/Saints/St Anthony of Padua/st_anthony_of_padua.html",
+                    //"saint anthony": "../../../Catholicism/Saints/St Anthony of Padua/st_anthony_of_padua.html",
+                    //"anthony": "../../../Catholicism/Saints/St Anthony of Padua/st_anthony_of_padua.html",
 
             "prayers": "../../../Catholicism/Prayers/prayers.html",
                 "rosary": "../../../Catholicism/Prayers/Rosary/rosary.html",
                 "nicene creed": "../../../Catholicism/Prayers/Nicene Creed/nicene_creed.html",
 
             //"papacy": "../../../Catholicism/Papacy/papacy.html",
-                //"history of catholic hierarchy": "../../../Catholicism/Papacy/History of Catholic Hierarchy/index.html",
-                //"line of popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
-                //"popes": "../../../Catholicism/Papacy/Line of Popes/index.html",
+                //"history of catholic hierarchy": "../../../Catholicism/Papacy/History of Catholic Hierarchy/history_of_catholic_hierarchy.html",
+                //"line of popes": "../../../Catholicism/Papacy/Line of Popes/line_of_popes.html",
+                //"popes": "../../../Catholicism/Papacy/Line of Popes/line_of_popes.html",
 
             "the assumption": "../../../Catholicism/Catholicism/Assumption/index.html",
                 "assumption": "../../../Catholicism/Catholicism/Assumption/index.html",

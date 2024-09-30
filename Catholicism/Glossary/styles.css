@@ -99,3 +99,7 @@ button {
 button:hover{
     border-style: inset;
 }
+
+html {
+    scroll-behavior: smooth;
+}

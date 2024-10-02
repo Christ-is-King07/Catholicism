@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 "nicene creed": "../Prayers/nicene_creed.html",
 
             "papacy": "../Papacy/papacy.html",
-                 "history of catholic hierarchy": "../Papacy/history_of_catholic_hierarchy.html",
+                "hierarchy of the catholic church": "../Papacy/hierarchy_of_the_catholic_church.html",
                 "line of popes": "../Papacy/line_of_popes.html",
                 "popes": "../Papacy/line_of_popes.html",
 

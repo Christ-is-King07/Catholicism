@@ -72,3 +72,11 @@ toggleButtons.forEach((button, index) => {
         content.classList.toggle('hidden'); // Toggle visibility
     });
 });
+
+    if (window.location.hostname === 'localhost') {
+        // Local development base URL
+        document.write('<base href="/">');
+    } else {
+        // GitHub Pages base URL
+        document.write('<base href="/Catholicism/">');
+    }

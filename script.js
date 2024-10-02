@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to handle navigation based on search input
     function navigateToPage(query) {
         const pages = {
-            "saints": "../Saints/saints.html",
+            "saints": "Saints/saints.html",
                 "st charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saint_charbel.html",
                     "saint charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saint_charbel.html",
                     "charbel": "../../../Catholicism/Saints/Saint Charbel/Saints/saint_charbel.html",
@@ -73,10 +73,3 @@ toggleButtons.forEach((button, index) => {
     });
 });
 
-    if (window.location.hostname === 'localhost') {
-        // Local development base URL
-        document.write('<base href="/">');
-    } else {
-        // GitHub Pages base URL
-        document.write('<base href="/Catholicism/">');
-    }

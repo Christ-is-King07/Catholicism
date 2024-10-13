@@ -40,9 +40,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
             "papacy": "../Papacy/papacy.html",
                 "hierarchy of the catholic church": "../Papacy/hierarchy_of_the_catholic_church.html",
-                "hierarchy": "../Papacy/hierarchy_of_the_catholic_church.html",
-                //"line of popes": "../Papacy/line_of_popes.html",
+                    "hierarchy": "../Papacy/hierarchy_of_the_catholic_church.html",
+                "line of popes": "../Papacy/line_of_popes.html",
                 "popes": "../Papacy/line_of_popes.html",
+                "st peter": "../Papacy/st_peter.html",
+                    "peter": "../Papacy/st_peter.html",
 
             "the assumption": "../Catholicism/assumption.html",
                 "assumption": "../Catholicism/assumption.html",
